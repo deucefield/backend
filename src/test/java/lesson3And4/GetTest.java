@@ -1,4 +1,4 @@
-package lesson3;
+package lesson3And4;
 
 import io.restassured.RestAssured;
 import io.restassured.response.ResponseBody;
